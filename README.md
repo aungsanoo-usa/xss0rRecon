@@ -1,7 +1,7 @@
 Installation
 -------------
 
-<pre> git clone https://github.com/aungsanoo-usa/xss0rRecon.git
+<pre>git clone https://github.com/aungsanoo-usa/xss0rRecon.git
 
 cd xss0rRecon
 
